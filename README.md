@@ -1,3 +1,5 @@
-# azure-devops-udacit
+# azure-devops-udacity
 
-This was edited in cloudshell.
+This is a repo for azure-devops.
+
+![CI](https://github.com/mgblackwater/azure-devops-udacity/workflows/CI/badge.svg)
